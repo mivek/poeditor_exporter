@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="poeditorexporter",
-    version="1.0.0",
+    version="1.0.1",
     author="Jean-Kevin KPADEY",
     author_email="jeankevin@gmail.com",
     description="CLI package to export poeditor translations",
